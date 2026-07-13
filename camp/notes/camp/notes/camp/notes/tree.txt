@@ -47,5 +47,4 @@ week1/
 camp/projects/week1:
 hello.txt
 
-Noura@LAPTOP-D36V114H MINGW64 ~
-$
+
