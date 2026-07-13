@@ -1,3 +1,4 @@
+camp:
 notes/  projects/
 
 camp/notes:
@@ -23,4 +24,3 @@ week1/
 
 camp/projects/week1:
 hello.txt
-
